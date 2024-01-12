@@ -1,26 +1,31 @@
-### Hi there this is MODEDGES [![](https://visitcount.itsvg.in/api?id=MODEDGES24&label=Profile%20Views&color=1&icon=8&pretty=false)](https://visitcount.itsvg.in)
-
-- 🔭 I’m currently working on DroidX-UI and Ocean-UI
-- 💻 My current setup is
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
-  [![OS:Gentoo](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=Ubuntu)](), 
-  [![OS:Android13](https://img.shields.io/badge/OS-Android13-blue?style=flat-square&logo=android)](https://www.android.com/)
-  
-
-- 🌱 I’m currently learning C++, python, Java/Kotlin, Figma
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about random stuff!
-- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-ofwargane30@gmail.com-red?style=flat-square&logo=gmail)](ofwargane30@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Modedges2024-blue?style=flat-square&logo=telegram)](https://t.me/Modedges2024)
-
-- I'm maintainer for DroidX-UI, Ocean-UI for Samsung Exyno982x 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MODEDGES24&theme=codestackr)](https://git.io/streak-stats)
-<!---
-- if you enjoy my work, feel free to sponsor me via 
-<noscript><a href="https://liberapay.com/../donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/)
 <div align="center">
-<img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/..">
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/..">
---->
-<div/>
+
+[![Hello World, I'm MODEDGES!](assets/header.gif)](https://github.com/MODEDGES24)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
+</div>
+
+- 🔭 I’m currently working at [OCEAN-UI](https://t.me/oceanui)
+- 🌱 I’m pasionate about [making android apps and custom roms]
+- 📝 I’m aiming to work on **one update per week** starting from February 2024.
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I read random stuff, play the guitar, and sleep with my cats!
+
+<div align="center">
+
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MODEDGES24&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MODEDGES24&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
+</div>
