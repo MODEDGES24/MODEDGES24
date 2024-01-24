@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Hello World, I'm MODEDGES!](assets/header.gif)](https://github.com/MODEDGES24)
+[![Hello World, I'm MODEDGES!](240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)](https://github.com/MODEDGES24)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 </div>
