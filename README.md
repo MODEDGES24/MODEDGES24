@@ -1,11 +1,10 @@
 <div align="center">
     
 [![Hello World, I'm MODEDGES!](240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)](https://github.com/MODEDGES24)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 </div>
 
-- 🔭 I’m currently working at [OCEAN-UI](https://t.me/oceanui)
+- 🔭 I’m currently working at [ATLANTIS OS](https://t.me/oceanui)
 - 🌱 I’m pasionate about [making android apps and custom roms]
 - 📝 I’m aiming to work on **one update per week** starting from February 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
