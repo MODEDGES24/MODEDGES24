@@ -1,5 +1,6 @@
 <div align="center">
-
+[](https://github.com/MODEDGES24/kshyun28/blob/main/assets/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+    
 [![Hello World, I'm MODEDGES!](assets/header.gif)](https://github.com/MODEDGES24)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
